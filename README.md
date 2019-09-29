@@ -32,9 +32,9 @@ A User Interface has been provided in order to make it easy to minting tokens. T
  Contract ABI can be found on `eth-contracts/build/contracts` folder on github repository
  
 ## OpenSea MarketPlace Storefront link
-- Original minter : `https://rinkeby.opensea.io/accounts/0xe0dEc18372EBF3f69A0B2440699a99Fe5A969A2E?tab=activity`
-- Buyer 1 : `https://rinkeby.opensea.io/accounts/0x202E860B580D2F8A9Acc9228368F9f4Bebb46C88?tab=activity`
-- Buyer 2 : `https://rinkeby.opensea.io/accounts/0xeEA62768e2fBC67C00Fe8129351ae0d391b608f6?tab=activity`
+- Original minter : https://rinkeby.opensea.io/accounts/0xe0dEc18372EBF3f69A0B2440699a99Fe5A969A2E?tab=activity
+- Buyer 1 : https://rinkeby.opensea.io/accounts/0x202E860B580D2F8A9Acc9228368F9f4Bebb46C88?tab=activity
+- Buyer 2 : https://rinkeby.opensea.io/accounts/0xeEA62768e2fBC67C00Fe8129351ae0d391b608f6?tab=activity
 
 # Getting Started
 
