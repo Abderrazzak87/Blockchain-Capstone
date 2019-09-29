@@ -1,8 +1,6 @@
 const HDWalletProvider = require('truffle-hdwallet-provider');
-const infuraKey = "c159eab9111e4ca980803dbb41a468e0";
-//
-// const fs = require('fs');
-const mnemonic = "spirit segment receive update weekend struggle twenty luxury loyal member theme praise";
+const infuraKey = "<PUT HERE YOUR INFURA API KEY>";
+const mnemonic = "<PUT HERE YOUR WALLET MNEMONIC>";
 
 module.exports = {
 
